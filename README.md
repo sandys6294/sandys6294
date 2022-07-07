@@ -3,12 +3,4 @@
 ## Hi 👋 I am Shubham Sharma! 
 I am a L2 Engineer at [HTC Global Services Pvt Ltd](https://www.htc.com/in/). 
 
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-- 👋 My personal [blog](https://pr2tik1.github.io/blog/)
-- ✍️ [Medium Profile](https://pr2tik1.medium.com/)
 
----
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
-</p>
